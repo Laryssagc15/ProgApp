@@ -1,0 +1,12 @@
+h1{
+    color: cyan;
+    border: 2px solid chocolate;
+}
+button{
+    color: navy;
+    font-size: 20pt;
+}
+p{
+    color: indigo;
+    margin-left: 9px; 
+}
